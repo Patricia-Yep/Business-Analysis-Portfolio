@@ -27,6 +27,10 @@ Consists of 3 projects for Business Analysis Certification
 - The To-Be state shows how the company will arrange approvals when the company grows.
 
 ## As-Is Process
+![As-Is Diagram](As-Is_State.png)
+
+## To-Be Process
+![To-Be Diagram](To-Be_State.png)
 ---
 
 ## Skills Demonstrated
